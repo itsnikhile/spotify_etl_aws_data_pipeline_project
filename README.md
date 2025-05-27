@@ -5,7 +5,7 @@
 Welcome to this project! It’s an ETL pipeline that pulls music data from Spotify, transforms it, and sends it to AWS — making it easy to explore and analyze your favorite tunes.
  
  ### Architecture
-![Architecture Diagram](https://github.com/ameetsinghmanyal/spotify-etl-aws-data-pipeline-project/blob/main/Architecture.jpeg)
+![Architecture Diagram](https://github.com/itsnikhile/spotify_etl_aws_data_pipeline_project/blob/main/Architecture.png)
  
  ### About Spotify API
  The [Spotify API](https://developer.spotify.com/documentation/) opens the door to Spotify’s vast music universe. It lets developers build powerful apps that can search songs, explore artists, manage playlists, and dive into rich metadata about tracks, albums, and more — all while connecting directly with the world’s leading music streaming platform..
@@ -49,7 +49,7 @@ pip install numpy
 ```
 
 
-###🚀 How It Works: End-to-End Flow
+### 🚀 How It Works: End-to-End Flow
 1. 🎧 Data Extraction Begins
 We kick things off by pulling music data using the Spotify API — albums, artists, tracks, and more.
 
